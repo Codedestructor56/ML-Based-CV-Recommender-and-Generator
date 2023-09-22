@@ -17,7 +17,6 @@
     <li>Team Members: Abdul Moiz Abid, Sufyan Siddiqui, Muhammad Sameed Fayiz, Muhammad Ammar</li>
 </ul>
 
-<p><strong>Date: September 09, 2023</strong></p>
 
 <h2>Table of Contents</h2>
 <ol>
