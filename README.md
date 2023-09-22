@@ -17,7 +17,6 @@
     <li>Team Members: Abdul Moiz Abid, Sufyan Siddiqui, Muhammad Sameed Fayiz, Muhammad Ammar</li>
 </ul>
 
-
 <h2>Table of Contents</h2>
 <ol>
     <li><a href="#introduction">Introduction</a></li>
@@ -209,7 +208,3 @@
 
 </body>
 </html>
-
-
-
-
